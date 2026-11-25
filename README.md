@@ -1,8 +1,10 @@
 # CampusCare — LPU Student Healthcare Support
 
-CampusCare is a student project focused on making common healthcare information and support options easier for LPU students to find in one place.
+CampusCare is a student healthcare website prototype focused on making common healthcare information and support options easier for LPU students to find in one place.
 
-The project was developed with a team during a campus hackathon. It is a prototype, not an official LPU medical service.
+I built this project with my team during a first-semester hackathon. I used AI-assisted development tools as a hands-on way to explore how AI can help with planning, building, and improving a website. It was a learning experience and an opportunity to try AI in a real project.
+
+This is a prototype, not an official LPU medical service.
 
 ## What the prototype includes
 
@@ -30,8 +32,8 @@ Some screens and workflows are demonstrations. They do not replace medical advic
 You will need Node.js and npm.
 
 ```bash
-git clone https://github.com/goswamibaibhavraj/CampusCare.git
-cd CampusCare
+git clone https://github.com/goswamibaibhavraj/CampusCare-Hackathon-Project.git
+cd CampusCare-Hackathon-Project
 npm install
 npm run dev
 ```
@@ -44,4 +46,4 @@ This project was built for learning and demonstration. Do not enter real medical
 
 ## Repository
 
-[CampusCare on GitHub](https://github.com/goswamibaibhavraj/CampusCare)
+[CampusCare-Hackathon-Project on GitHub](https://github.com/goswamibaibhavraj/CampusCare-Hackathon-Project)
